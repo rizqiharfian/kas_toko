@@ -13,8 +13,8 @@ $KATEGORI = [
     'ekspedisi'      => 'Ekspedisi Manual',
     'ongkir'         => 'Ongkir Paket',
     'makan'          => 'Uang Makan',
-    'servis'          => 'Dana Servis',
-    'perlengkapan'          => 'Perlengkapan Toko'
+    'servis'         => 'Dana Servis',
+    'perlengkapan'   => 'Perlengkapan Toko'
 ];
 
 
